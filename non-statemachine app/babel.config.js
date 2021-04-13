@@ -4,4 +4,3 @@ module.exports = function(api) {
     presets: ['babel-preset-expo'],
   };
 };
-© 2021 GitHub, Inc.
